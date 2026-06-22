@@ -1,0 +1,6 @@
+{
+  "name": "Quant Rush Test Dashboard",
+  "description": "An interactive Quantitative Aptitude test portal featuring live countdown timers, a structured calculator, comprehensive performance analytics, and historical score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
